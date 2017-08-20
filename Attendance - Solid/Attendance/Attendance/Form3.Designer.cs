@@ -1,0 +1,119 @@
+﻿namespace Attendance
+{
+    partial class frmAddDeduction
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.dgViewDeduction = new System.Windows.Forms.DataGridView();
+            this.grpData = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtDeduction = new System.Windows.Forms.TextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.dgViewDeduction)).BeginInit();
+            this.grpData.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // dgViewDeduction
+            // 
+            this.dgViewDeduction.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgViewDeduction.Location = new System.Drawing.Point(-4, 86);
+            this.dgViewDeduction.Name = "dgViewDeduction";
+            this.dgViewDeduction.Size = new System.Drawing.Size(450, 219);
+            this.dgViewDeduction.TabIndex = 0;
+            // 
+            // grpData
+            // 
+            this.grpData.Controls.Add(this.button1);
+            this.grpData.Controls.Add(this.label1);
+            this.grpData.Controls.Add(this.txtDeduction);
+            this.grpData.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.grpData.Location = new System.Drawing.Point(2, 0);
+            this.grpData.Name = "grpData";
+            this.grpData.Size = new System.Drawing.Size(442, 86);
+            this.grpData.TabIndex = 3;
+            this.grpData.TabStop = false;
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(128, 51);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(156, 27);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Save";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(3, 26);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(119, 15);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "Deduction Name:";
+            //this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // txtDeduction
+            // 
+            this.txtDeduction.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDeduction.ForeColor = System.Drawing.Color.Red;
+            this.txtDeduction.Location = new System.Drawing.Point(128, 19);
+            this.txtDeduction.Multiline = true;
+            this.txtDeduction.Name = "txtDeduction";
+            this.txtDeduction.Size = new System.Drawing.Size(288, 26);
+            this.txtDeduction.TabIndex = 1;
+            this.txtDeduction.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // frmAddDeduction
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(446, 305);
+            this.Controls.Add(this.grpData);
+            this.Controls.Add(this.dgViewDeduction);
+            this.Name = "frmAddDeduction";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Deductions";
+            this.Load += new System.EventHandler(this.frmAddDeduction_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dgViewDeduction)).EndInit();
+            this.grpData.ResumeLayout(false);
+            this.grpData.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.DataGridView dgViewDeduction;
+        private System.Windows.Forms.GroupBox grpData;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtDeduction;
+        private System.Windows.Forms.Button button1;
+    }
+}

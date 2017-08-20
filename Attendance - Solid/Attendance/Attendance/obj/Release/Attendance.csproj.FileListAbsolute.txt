@@ -1,0 +1,198 @@
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\App.config
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Attendance.exe.config
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Attendance.exe
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Attendance.pdb
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\MySql.Data.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\MySql.Web.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\MySql.Data.xml
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\MySql.Web.xml
+E:\AttMonitoring\Attendance\Attendance\Attendance\obj\Release\Attendance.csprojResolveAssemblyReference.cache
+E:\AttMonitoring\Attendance\Attendance\Attendance\obj\Release\Attendance.frmAttendance.resources
+E:\AttMonitoring\Attendance\Attendance\Attendance\obj\Release\Attendance.Form2.resources
+E:\AttMonitoring\Attendance\Attendance\Attendance\obj\Release\Attendance.Properties.Resources.resources
+E:\AttMonitoring\Attendance\Attendance\Attendance\obj\Release\Attendance.csproj.GenerateResource.Cache
+E:\AttMonitoring\Attendance\Attendance\Attendance\obj\Release\Attendance.exe
+E:\AttMonitoring\Attendance\Attendance\Attendance\obj\Release\Attendance.pdb
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.WebForms.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.SqlServer.Types.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\EnvDTE.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\stdole.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\Microsoft.MSXML.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\App.config
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Attendance.exe.config
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Attendance.exe
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Attendance.pdb
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.WebDesign.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.WebForms.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.SqlServer.Types.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\MySql.Data.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\MySql.Web.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\EnvDTE.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\stdole.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\Microsoft.MSXML.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\MySql.Data.xml
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\MySql.Web.xml
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.csprojResolveAssemblyReference.cache
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmAttendance.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.Form2.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmAddDeduction.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmEmployeeDeduction.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.Form5.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmAddEmployeeAttendance.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmFetchAttendance.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmPayroll.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmAddEmployerContribution.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.frmMain.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.Properties.Resources.resources
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.csproj.GenerateResource.Cache
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.exe
+E:\AttMonitoring\Attendance - Solid\Attendance\Attendance\obj\Release\Attendance.pdb
