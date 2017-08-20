@@ -22,10 +22,10 @@ function createCode($digits) {
 /*End of Set of functions*/
 
 // start of database manipulation
-$servername = "localhost";
-$username = "jologs_hrmnew";
-$password = "cYtology28";
-$dbname = "jologs_hrmnew";
+$servername = "servername";
+$username = "username";
+$password = "password";
+$dbname = "dbname";
 
 try {
 	$conn = new PDO("mysql:host=$servername;dbname=$dbname",$username,$password);
