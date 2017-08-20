@@ -62,7 +62,7 @@ try {
 			$employee_no = $row['mobile_phone'];
 			$attendance_code = "Good Morning ".$row['first_name'].", your attendance code is ".$att_code;
 
-			$result = itexmo($employee_no,$attendance_code,"ST-MUREY276378_UW1PG");
+			$result = itexmo($employee_no,$attendance_code,"SMS API CODE");
 			if ($result == ""){
 				echo "No response from server.";	
 			}else if ($result == 0){
