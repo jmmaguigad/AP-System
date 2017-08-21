@@ -13,12 +13,11 @@ function itexmo($number,$message,$apicode){
 	return curl_exec ($ch);
 	curl_close ($ch);
 }
-
+// end itexmo
 function createCode($digits) {
 	$code = str_pad(rand(0,pow(10,$digits)-1),$digits,'0',STR_PAD_LEFT);
 	return $code;
 }
-// end itexmo
 /*End of Set of functions*/
 
 // start of database manipulation
